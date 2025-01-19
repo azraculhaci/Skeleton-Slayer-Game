@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Parkourgamee" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Varsayılan tema ayarları -->
+    </style>
+
+
+
+</resources>
